@@ -10,7 +10,6 @@ I'm a passionate Senior Android Developer with 6 years of experience crafting us
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-... [Add other technologies and tools you're proficient with]
 
 ## My Work
 
@@ -25,8 +24,7 @@ I'm a passionate Senior Android Developer with 6 years of experience crafting us
 
 ## Connect with Me
 
-📧 Feel free to reach out at [your.email@example.com].
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/).
-🐦 Follow me on [Twitter](https://twitter.com/yourusername).
+📧 Feel free to reach out at [it.narek.dallakyan@gmail.com].
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/narekdallakyan/).
 
 Looking forward to connecting and collaborating with fellow developers! 🚀
