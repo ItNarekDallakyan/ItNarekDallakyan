@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate Senior Android Developer with 6 years of experience crafting user-friendly, performant, and visually appealing mobile applications. My journey in the world of Android development has led me to specialize in [specific areas or technologies you're proficient in, e.g., Kotlin, MVVM, Dagger, etc.].
+I'm a passionate Senior Android Developer with 6 years of experience crafting user-friendly, performant, and visually appealing mobile applications. My journey in the world of Android development has led me to specialize in [Kotlin, Java, Android clean architecture, MVVM, Jetpack Compose, Coroutines, Flow API, Dagger2, Hilt, Coin, Room, Datastore, Canvas API, WebRTC Framework, Google Maps API, Retrofit, OkHttp, Firebase, Socket.IO, FFmpeg etc.].
 
 ## 🔧 Technologies & Tools
 
