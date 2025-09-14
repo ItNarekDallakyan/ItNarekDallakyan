@@ -1,0 +1,56 @@
+{
+  "apkFileName": "rubean-middleware.apk",
+  "className": "net.netmanagement.payment.rubean.RubeanMiddleware",
+  "functions": [
+    {
+      "name": "initialize",
+      "arguments": [
+        {
+          "type": "java.lang.String",
+          "valueSource": "sdk.apikey"
+        },
+        {
+          "type": "java.lang.String",
+          "valueSource": "sdk.apisecret"
+        },
+        {
+          "type": "java.lang.String",
+          "valueSource": "sdk.applicationid"
+        }
+      ]
+    },
+    {
+      "name": "load",
+      "arguments": [
+        {
+          "type": "android.content.Context",
+          "valueSource": "context"
+        },
+        {
+          "type": "java.lang.String",
+          "valueSource": "sdk.acqhost"
+        },
+        {
+          "type": "java.lang.String",
+          "valueSource": "sdk.paymentmode"
+        },
+        {
+          "type": "java.lang.String",
+          "valueSource": "sdk.loadmode"
+        },
+        {
+          "type": "java.lang.String",
+          "valueSource": "sdk.zippass"
+        },
+        {
+          "type": "java.lang.String",
+          "valueSource": "sdk.merchantlang"
+        },
+        {
+          "type": "net.netmanagement.payment.common.ResultCallback",
+          "valueSource": "callback"
+        }
+      ]
+    }
+  ]
+}
